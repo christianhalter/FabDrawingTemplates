@@ -5,4 +5,4 @@ See YouTube link for more information
 
 ## References
 
-https://cart.jlcpcb.com/impedance
+https://jlcpcb.com/impedance
